@@ -23,7 +23,7 @@ Provides main 3-phase power input to the system with protection and voltage step
 
 Here’s a quick demo in action:
 
-![Screenshot](Motor Controller.gif)
+![Screenshot](demo.gif)
 
 ## SECTION 2: POWER WIRING - MOTOR
 
