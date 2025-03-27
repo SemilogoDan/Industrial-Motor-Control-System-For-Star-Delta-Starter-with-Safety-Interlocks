@@ -19,6 +19,11 @@ Provides main 3-phase power input to the system with protection and voltage step
   - Terminals P, N: Supply power to control circuit
 
 ---
+## Demo 🎬
+
+Here’s a quick demo in action:
+
+![Screenshot](Motor Controller.gif)
 
 ## SECTION 2: POWER WIRING - MOTOR
 
